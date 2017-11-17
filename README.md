@@ -1,5 +1,7 @@
 # redditlist.com scrape
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/abdulhannanali/redditlist-scrape.svg)](https://greenkeeper.io/)
+
 These scrapers written in [node.js](https://nodejs.org) are some utilities I used for scraping redditlist.com for a usecase. It's the whole dataset available at redditlist.com at the time of scraping. You can figure out and run the scrapers yourself if you want to redownload the latest data.
 
 ## Where can you find the data?
